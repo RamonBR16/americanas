@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: gainsboro;
+}
+
+.rodapé{
+  position: relative;
+  background-color: white;
+  height: 55px;
+}
+
+.cabeçalho{
+  position: relative;
+  background-color: #e60014;
+  height: 170px;
+}
+
+.pesquisa{
+  background-color: blue;
+  margin-left: 30%;
+  margin-right: 30%;
+  height: 50px;
+}
+
+.produtos{
+  background-color: white;
+  height: 50px;
+}
+
+.promoções{
+  background-color: grey;
+  height: 90px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+.car{
+  background-color: khaki;
+  height: 250px;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
